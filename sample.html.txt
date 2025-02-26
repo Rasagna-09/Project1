@@ -1,0 +1,11 @@
+<html>
+<head>
+    <body>
+    	<ul>
+	     <li>apple</li>
+             <li>Banana</li>
+             <li>mango</li>
+        </ul>
+     </body>
+</head>
+</html>
